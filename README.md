@@ -11,7 +11,7 @@ My Professional Resume
 * Keywords (meta elements) - using the most searchable keywords (web developer, web designer, etc.) for search engine indexing. 
 
 # Deployement
-View my Portfolio <a href="https://ethanlloyd21.github.io/lloydmarcelino/" rel="nofollow"> here.</a>
+View my Portfolio <a href="https://ethanlloyd21.github.io/resume/" rel="nofollow"> here.</a>
 
 # Built With
 * HTML5
