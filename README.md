@@ -3,7 +3,7 @@ My Professional Resume
 
 # Contents
 
-
+![](img/picResume.PNG)
 
 # SEO Optimization
 * Google Search Console - enhancing the visibility of my website on Google search engine. Also helps to measure the search traffic and performance.
